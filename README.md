@@ -1,2 +1,2 @@
 # Express-App
-An express app with routes currentyl hosted on cloud9.
+An express app with routes currently hosted on cloud9.
